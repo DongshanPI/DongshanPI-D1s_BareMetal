@@ -2,7 +2,7 @@
 # Top makefile
 #
 
-CROSS		?= ~/buildroot_dongshannezhastu/buildroot-awol/output/host/bin/riscv64-unknown-linux-gnu-
+CROSS		?= ~/DongshanPI-D1s_BareMetal/toolchain/riscv64-glibc-gcc-thead_20200702/bin/riscv64-unknown-linux-gnu-
 NAME		:= d1s-baremetal
 
 #
